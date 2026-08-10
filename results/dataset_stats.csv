@@ -1,0 +1,2 @@
+n_raw_total,n_dropped_ambiguous,n_dropped_neither,n_dropped_length_or_nonstandard_aa,n_dropped_duplicate_sequence,n_kept_final,n_nucleus,n_membrane,majority_class_fraction,n_distinct_families,family_size_median,frac_nucleus_in_top10_families,frac_membrane_in_top10_families
+20431,321,11201,1084,23,7802,4730,3072,0.6063,4393,1.0,0.1328,0.2402

@@ -4,3 +4,4 @@ __pycache__/
 data/
 CLAUDE.md
 todo.txt
+.DS_Store
